@@ -1,4 +1,4 @@
-mport gym
+import gym
 from keras.models import Model
 from keras.layers import Input, Dense, Lambda
 from keras import backend as K
